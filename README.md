@@ -18,7 +18,7 @@ Pokémon rojo y azul se desarrollan en la región ficticia de Kanto —la cual, 
 #### Sinopsis
 El protagonista de Pokémon rojo y azul es un joven preadolescente —el juego elige por defecto su nombre como «Rojo», aunque el jugador puede escogerlo libremente— que vive en un pequeño lugar llamado Pueblo Paleta.
 
-Después de intentar aventurarse por sí solo entre la hierba alta, una voz advierte al jugador que se detenga. El Profesor Oak, un famoso investigador Pokémon, le explica al jugador que diferentes Pokémon salvajes pueden estar viviendo ahí, por lo que si se llega a encontrar con uno de ellos, puede resultar muy peligroso.
+>Después de intentar aventurarse por sí solo entre la hierba alta, una voz advierte al jugador que se detenga. El Profesor Oak, un famoso investigador Pokémon, le explica al jugador que diferentes Pokémon salvajes pueden estar viviendo ahí, por lo que si se llega a encontrar con uno de ellos, puede resultar muy peligroso.
 
 # Otras versiones
 1. Pocket Monsters: Blue
